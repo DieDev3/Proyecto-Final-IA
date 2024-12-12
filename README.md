@@ -5,7 +5,7 @@
 Diego Fonscea Miranda -  Andrés Castellanos Cañón
 
 # Objetivo
-Predecir la potabilidad del agua con base en parámetros medidos en el agua.
+Predecir de la potabilidad del agua mediante el análisis de parámetros de calidad hidrobiológicos.
 
 # Conjunto de datos
 El archivo water_potability.csv contiene parámetros de calidad del agua para 3276 masas de agua diferentes: 
