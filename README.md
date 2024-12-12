@@ -15,8 +15,9 @@ El archivo water_potability.csv contiene parámetros de calidad del agua para 32
 - Decision Tree Classifier.
 - Random Forest Classifier.
 - Support Vector Machine.
+- Multilayer perceptron.
 
 # Enlaces:
 - Notebook del proyecto: (https://colab.research.google.com/drive/11Z8vvXtqAf6r9bcDFJH4ZnxRoGoRpZo7?usp=sharing)
 - Vídeo: (https://youtu.be/ElY2PJf2UFA)
-- Repositorio: ()
+- Repositorio: (https://github.com/DieDev3/Proyecto-Final-IA)
